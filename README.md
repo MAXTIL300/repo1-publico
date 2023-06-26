@@ -1,2 +1,3 @@
-# repo1
+# mi primer reddme
+
 mi primer repositorio publico
